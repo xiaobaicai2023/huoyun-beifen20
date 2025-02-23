@@ -29,8 +29,12 @@
 ![extending-a-theme](/09.png)
 ![extending-a-theme](/10.png)
 ![extending-a-theme](/11.png)
+# 产品体验
 
-![extending-a-theme](/xiaomage.jpg)
+如果你对本项目感兴趣，项目合作、体验请联系微信
+
+
+![extending-a-theme](/wx.png)
 
 
 
