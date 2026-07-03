@@ -8,7 +8,7 @@
 用户端 uniapp（vue语法）
 管理后台 vue+elementUi
 
-# 用户端
+# 用户端.
 
 
 ![extending-a-theme](/01.png)
